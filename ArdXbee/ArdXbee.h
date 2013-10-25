@@ -32,3 +32,4 @@ private:
 	int adress[8];
 };
 #endif
+//End of the headerfile
